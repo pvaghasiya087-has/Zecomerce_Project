@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/noInternetLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEF4FF"
+    android:visibility="gone"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <!-- GLASS CARD -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:padding="26dp"
+        android:gravity="center"
+        android:background="@drawable/bg_no_internet_premium"
+        android:elevation="10dp">
+
+        <!-- ICON -->
+        <android.widget.ImageView
+            android:id="@+id/imgNoInternet"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_no_internet"
+            android:tint="#2460E3"
+            android:layout_marginBottom="20dp"
+            android:contentDescription="No Internet"/>
+
+        <!-- TITLE -->
+        <TextView
+            android:id="@+id/tvNoInternet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You're Offline"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#0F172A"
+            android:layout_marginBottom="6dp"/>
+
+        <!-- DESCRIPTION -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="We can’t connect right now.\nCheck your internet and try again."
+            android:textSize="14sp"
+            android:textColor="#475569"
+            android:gravity="center"
+            android:layout_marginBottom="22dp"/>
+
+        <!-- BUTTON -->
+        <android.widget.Button
+            android:id="@+id/btnRetryInternet"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Retry Connection"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/bg_btn_premium"
+            android:elevation="6dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

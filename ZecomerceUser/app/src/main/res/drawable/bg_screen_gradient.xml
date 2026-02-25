@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base dark gradient -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#0B1026"
+                android:endColor="#1A1F4A"
+                android:angle="270"/>
+        </shape>
+    </item>
+
+    <!-- Soft glow -->
+    <item
+        android:left="-100dp"
+        android:top="300dp">
+        <shape>
+            <gradient
+                android:type="radial"
+                android:gradientRadius="400dp"
+                android:centerColor="#332F80FF"
+                android:endColor="@android:color/transparent"/>
+        </shape>
+    </item>
+
+</layer-list>

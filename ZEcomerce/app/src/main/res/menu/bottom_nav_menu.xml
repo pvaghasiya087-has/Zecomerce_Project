@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_items"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="Items" />
+
+    <item
+        android:id="@+id/nav_offers"
+        android:icon="@drawable/ic_offers"
+        android:title="Offers" />
+
+    <item
+        android:id="@+id/nav_orders"
+        android:icon="?attr/actionModePasteDrawable"
+        android:title="Orders" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Profile" />
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <!-- Light Blue -->
+    <item android:duration="500">
+        <shape android:shape="rectangle">
+            <corners android:radius="14dp"/>
+            <stroke
+                android:width="5dp"
+                android:color="#81D4FA"/>
+            <solid android:color="#FFFFFF"/>
+        </shape>
+    </item>
+
+    <!-- Slightly Brighter -->
+    <item android:duration="500">
+        <shape android:shape="rectangle">
+            <corners android:radius="14dp"/>
+            <stroke
+                android:width="5dp"
+                android:color="#29B6F6"/>
+            <solid android:color="#FFFFFF"/>
+        </shape>
+    </item>
+
+</animation-list>
