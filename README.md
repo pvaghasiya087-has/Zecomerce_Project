@@ -1,70 +1,36 @@
-\# ZECommerce
+# ZECommerce
 
+---
 
+## 📄 Documentation
 
-\---
+- [Project Report PDF](docs/ZECOMERCE.pdf)
 
-\## 📄 Documentation
+---
 
+## 📸 Screenshots
 
+![](images/Slide3.JPG)
+![](images/Slide4.JPG)
+![](images/Slide5.JPG)
+![](images/Slide6.JPG)
+![](images/Slide7.JPG)
+![](images/Slide8.JPG)
+![](images/Slide9.JPG)
+![](images/Slide10.JPG)
+![](images/Slide11.JPG)
+![](images/Slide12.JPG)
+![](images/Slide13.JPG)
+![](images/Slide14.JPG)
+![](images/Slide15.JPG)
+![](images/Slide16.JPG)
+![](images/Slide17.JPG)
+![](images/Slide18.JPG)
+![](images/Slide19.JPG)
+![](images/Slide20.JPG)
+![](images/Slide21.JPG)
+![](images/Slide22.JPG)
+![](images/Slide23.JPG)
+![](images/Slide24.JPG)
 
-\- \[Project Report PDF](docs/ZECOMERCE.pdf)
-
-
-
-\---
-
-
-
-\## 📸 Screenshots
-
-
-
-!\[](images/Slide3.jpg)
-
-!\[](images/Slide4.jpg)
-
-!\[](images/Slide5.jpg)
-
-!\[](images/Slide6.jpg)
-
-!\[](images/Slide7.jpg)
-
-!\[](images/Slide8.jpg)
-
-!\[](images/Slide9.jpg)
-
-!\[](images/Slide10.jpg)
-
-!\[](images/Slide11.jpg)
-
-!\[](images/Slide12.jpg)
-
-!\[](images/Slide13.jpg)
-
-!\[](images/Slide14.jpg)
-
-!\[](images/Slide15.jpg)
-
-!\[](images/Slide16.jpg)
-
-!\[](images/Slide17.jpg)
-
-!\[](images/Slide18.jpg)
-
-!\[](images/Slide19.jpg)
-
-!\[](images/Slide20.jpg)
-
-!\[](images/Slide21.jpg)
-
-!\[](images/Slide22.jpg)
-
-!\[](images/Slide23.jpg)
-
-!\[](images/Slide24.jpg)
-
-
-
-\---
-
+---
